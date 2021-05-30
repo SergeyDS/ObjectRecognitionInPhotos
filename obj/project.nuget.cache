@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9w68BxF+rzQ+dQVUsfmZZeh7t1w5rdVFSe3gE3OMORaBLQuTKxAxOjul/3bxJO2hnSEvETFtTT/RlNSEjmMswg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SergeyDN\\source\\repos\\ObjectRecognitionInPhotos\\ObjectRecognitionInPhotos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SergeyDN\\.nuget\\packages\\alturos.yolo\\3.0.6-alpha\\alturos.yolo.3.0.6-alpha.nupkg.sha512"
+  ],
+  "logs": []
+}

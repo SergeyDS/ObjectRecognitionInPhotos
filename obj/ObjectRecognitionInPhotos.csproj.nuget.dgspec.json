@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SergeyDN\\source\\repos\\ObjectRecognitionInPhotos\\ObjectRecognitionInPhotos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SergeyDN\\source\\repos\\ObjectRecognitionInPhotos\\ObjectRecognitionInPhotos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SergeyDN\\source\\repos\\ObjectRecognitionInPhotos\\ObjectRecognitionInPhotos.csproj",
+        "projectName": "ObjectRecognitionInPhotos",
+        "projectPath": "C:\\Users\\SergeyDN\\source\\repos\\ObjectRecognitionInPhotos\\ObjectRecognitionInPhotos.csproj",
+        "packagesPath": "C:\\Users\\SergeyDN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SergeyDN\\source\\repos\\ObjectRecognitionInPhotos\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SergeyDN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/packages/Alturos.Yolo/3.0.6-alpha": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Alturos.Yolo": {
+              "target": "Package",
+              "version": "[3.0.6-alpha, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
